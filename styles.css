@@ -133,15 +133,15 @@ td.titulo { text-align: center; color:whitesmoke; font-weight: bold; background-
 h1{  
     color: black;
     font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, sans-serif;
-    font-size: 18px;   
+    font-size: 18px; 
+    text-decoration: underline;   
 } 
 
 h2{  
     color: black;
     font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, sans-serif;
     font-size: 18px;
-    text-decoration: underline;   
-} 
+    } 
 p{
     color: black;
     font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, sans-serif;
